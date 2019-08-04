@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "jshint.options": {
+        "esversion": 6
+    },
+    "search.exclude": {
+        "/.eslintrc.js": true,
+        "/babel.config.js": true,
+        "/yarn.lock": true
+    }
+}
